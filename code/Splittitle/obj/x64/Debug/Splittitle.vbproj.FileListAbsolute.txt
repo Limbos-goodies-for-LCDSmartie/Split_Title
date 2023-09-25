@@ -1,0 +1,10 @@
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\bin\x64\Debug\Splittitle.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\bin\x64\Debug\Splittitle.pdb
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\bin\x64\Debug\Splittitle.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\obj\x64\Debug\Splittitle.vbproj.AssemblyReference.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\obj\x64\Debug\splittitle.Resources.resources
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\obj\x64\Debug\Splittitle.vbproj.GenerateResource.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\obj\x64\Debug\Splittitle.vbproj.CoreCompileInputs.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\obj\x64\Debug\Splittitle.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\obj\x64\Debug\Splittitle.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\Splittitle\Splittitle\obj\x64\Debug\Splittitle.pdb
